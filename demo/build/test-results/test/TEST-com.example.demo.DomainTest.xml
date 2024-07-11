@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.DomainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-07T18:22:44" hostname="DESKTOP-AN2MJ7C" time="1525.399">
+  <properties/>
+  <testcase name="testAdd()" classname="com.example.demo.DomainTest" time="1525.399"/>
+  <system-out><![CDATA[User user123 - Login attempt 1: Allowed
+User user123 - Login attempt 2: Allowed
+User user123 - Login attempt 3: Allowed
+User user123 - Login attempt 4: Allowed
+User user123 - Login attempt 5: Allowed
+User user123 - Login attempt 6: Allowed
+User user123 - Login attempt 7: Allowed
+User user123 - Login attempt 8: Allowed
+User user123 - Login attempt 9: Allowed
+User user123 - Login attempt 10: Allowed
+User user123 - Login attempt 11: Allowed
+User user123 - Login attempt 12: Allowed
+User user123 - Login attempt 13: Allowed
+User user123 - Login attempt 14: Allowed
+User user123 - Login attempt 15: Allowed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
